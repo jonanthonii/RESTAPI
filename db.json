@@ -31,7 +31,7 @@
         "start_time": "8:00 AM",
         "end_time": "6:00 PM",
         "no_participants": 0,
-        "status": false
+        "status": "Upcoming"
       }
   ]
 }
