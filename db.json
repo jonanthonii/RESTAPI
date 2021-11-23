@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Jon",
+      "middle_name": "Anthony",
+      "last_name": "Genobaten",
+      "username": "genjionn",
+      "password": "Parkour4life.",
+      "is_org": false,
+      "is_admin": false
+    },
+    {
+      "first_name": "Ira",
+      "middle_name": "Anthony",
+      "last_name": "Genobaten",
+      "username": "genjionn",
+      "password": "Parkour4life.",
+      "is_org": false,
+      "is_admin": false,
+      "id": 2
+    }
+  ],
+
+  "events": [
+      {
+        "id": 1,
+        "event_name": "Tournament",
+        "event_description": "This is a dummy tournament event for the metro events mobile app.",
+        "start_date": "December 7, 2021",
+        "end_date": "December 8, 2021",
+        "start_time": "8:00 AM",
+        "end_time": "6:00 PM",
+        "no_participants": 0,
+        "is_cancelled": false,
+        "is_deleted": false,
+        "is_finished": false
+      }
+  ]
+}
