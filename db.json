@@ -7,8 +7,7 @@
       "last_name": "Genobaten",
       "username": "genjionn",
       "password": "Genobaten.",
-      "is_org": false,
-      "is_admin": true
+      "role": "Admin"
     },
     {
       "first_name": "Ira",
@@ -16,8 +15,7 @@
       "last_name": "Cabarrubias",
       "username": "genjionn",
       "password": "Cabarrubias.",
-      "is_org": false,
-      "is_admin": false,
+      "role": "Admin",
       "id": 2
     }
   ],
@@ -33,9 +31,7 @@
         "start_time": "8:00 AM",
         "end_time": "6:00 PM",
         "no_participants": 0,
-        "is_cancelled": false,
-        "is_deleted": false,
-        "is_finished": false
+        "status": false
       }
   ]
 }
