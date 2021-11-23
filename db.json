@@ -6,16 +6,16 @@
       "middle_name": "Anthony",
       "last_name": "Genobaten",
       "username": "genjionn",
-      "password": "Genobaten.",
+      "password": "jon123",
       "role": "Admin"
     },
     {
       "first_name": "Ira",
       "middle_name": "Richie",
       "last_name": "Cabarrubias",
-      "username": "genjionn",
-      "password": "Cabarrubias.",
-      "role": "Admin",
+      "username": "richie",
+      "password": "richie123",
+      "role": "Reg",
       "id": 2
     }
   ],
